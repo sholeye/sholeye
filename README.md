@@ -1,4 +1,4 @@
-## Hi there 👋
+## Rust Engineer at Revelo — built robust systems and worked on AI model training and evaluation.
 
 <!--
 **sholeye/sholeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
